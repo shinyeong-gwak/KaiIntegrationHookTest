@@ -40,7 +40,7 @@ public class Book {
     
     /**
      * Returns publisher of this book.
-     * @wi.relatesto KT-329
+     * @wi.relates_to KT-329
      */
     public String getPublisher() {
         return this.publisher;
