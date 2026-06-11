@@ -24,7 +24,7 @@ public class Book {
     }
 
     /**
-     * Returns title of this book.n
+     * Returns title of this book.
      * @wi.implements KT-329
      */
     public String getTitle() {
