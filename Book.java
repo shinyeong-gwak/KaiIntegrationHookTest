@@ -9,7 +9,7 @@ public class Book {
     private int publicationYear;
 
     /**
-     * Creates a new book.
+     * Creates a new book..
      * 
      * @param title
      * @param author
@@ -24,7 +24,7 @@ public class Book {
     }
 
     /**
-     * Returns title of this book.
+     * Returns title of this book..
      * @wi.implements KT-329
      */
     public String getTitle() {
